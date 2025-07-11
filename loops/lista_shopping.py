@@ -1,11 +1,11 @@
 """
-Objetivo:
-    Criar uma lista de compras permitindo adicionar itens até digitar 'sair'.
+Exercício:
 
-Etapas:
-    1. Solicitar ao usuário que adicione itens à lista;
-    2. Exibir a lista completa ao final e informar quantos itens ela contém.
+Cria um programa para gerenciar uma lista de compras, permitindo ao usuário
+adicionar itens continuamente até digitar 'sair'.
+Ao final, exibe todos os itens cadastrados e o total de elementos na lista.
 """
+
 
 lista_compras = []
 

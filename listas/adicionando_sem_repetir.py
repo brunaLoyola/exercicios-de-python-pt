@@ -1,9 +1,8 @@
 """
-Curso em Vídeo
+Curso em Vídeo: Ordenando de forma crescente
 
-O usuário irá digitar vários valores numéricos, adicionando-os em uma lista.
-Caso o número já exista nela, ele não será adicionado.
-No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+Permite ao usuário digitar números únicos em uma lista e
+exibe os valores em ordem crescente.
 """
 
 valores = []

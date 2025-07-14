@@ -1,5 +1,5 @@
 """
-Curso em video: Jogando os dadso
+Curso em video: Jogando os dados
 
 Simula 4 jogadores jogando dado, armazena resultados em
 dicionário e exibe ranking por ordem de resultado.
